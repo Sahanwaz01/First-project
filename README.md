@@ -2,7 +2,7 @@
 This is my first git repository.
 <br>
 Author-Sahanwaz khan
-topic:-E commerce website
+topic :- learning of Git & Github
 Disclaimer:-It is the basic concept of learning git and github
 git clone :- Cloning a repositoryon our local machine
 <!-- git status  :- to display the state of the code -->
