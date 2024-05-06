@@ -3,6 +3,7 @@ This is my first git repository.
 <br>
 Author-Sahanwaz khan
 topic :- learning of Git & Github
+work:-How to use Git and GitHub 
 Disclaimer:-It is the basic concept of learning git and github
 git clone :- Cloning a repositoryon our local machine
 <!-- git status  :- to display the state of the code -->
