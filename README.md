@@ -18,3 +18,4 @@ git clone :- Cloning a repository on our local machine
 <!-- if we want to add html file then we write git add index.html -->
 It shows all git hub syntax for push the code
 we can change any syntax in remote as well as on profile
+based on the git syntax we can also request pull and push the code
